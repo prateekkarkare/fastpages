@@ -4,10 +4,10 @@ title: About Me
 permalink: /about/
 ---
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+I am a machine learning enthusiast and with a special interest in image recognition.
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+Someone who enjoys learning for the sake of it, I get high on good music and great jam sessions, playing and collecting different musical instruments, electronics, react.js, Node.js, Unity VR development and of course machine learning.
 
+I regularly write on medium about basic concepts in Machine Leanring visit: https://medium.com/@prateekkarkare
 
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+If you have suggestions to good music, great learning material on any of the above feel free to drop me a DM on twitter, linkedin or any of the blog posts here!
